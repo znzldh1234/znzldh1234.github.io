@@ -3,7 +3,6 @@ layout: page
 title: RESUME
 permalink: /about/
 ---
-
 이름 : 박 지 훈
 
 ![mail](images/mail_Icon.PNG) [znzldh12@naver.com](mailto:znzldh12@naver.com)
@@ -12,11 +11,6 @@ permalink: /about/
 
 ![blog](images/blogIcon.PNG) [https://mrdevelop.tistory.com/](https://mrdevelop.tistory.com/)
 
-
-
-
-
-
 -----
 
 ## My Purpose
@@ -24,26 +18,15 @@ permalink: /about/
 
 ----
 ### More Information
-
+----
 #### School
----
 - 서일고등학교 (2012 ~ 2015)
 - 한밭대학교 (2015 ~ 2020)
 
-#### Phone
----
-
-
-#### Blog
----
-
-
-
-
 #### Skills
----
 - Kotlin
 
+----
 #### Contents
 ----
 - 오픈 소스를 활용하여 할 수 있는 일을 찾다보니  
