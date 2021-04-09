@@ -14,10 +14,12 @@ permalink: /about/
 -----
 
 ## My Purpose
-**미니멀리즘 개발자**
-
-**AOS앱 풀스택 개발자**
 ----
+#### 미니멀리즘 개발자
+
+#### AOS앱 풀스택 개발자
+----
+
 ### More Information
 ----
 #### School
