@@ -6,7 +6,11 @@ permalink: /about/
 
 이름 : 박 지 훈
 
+![mail](images/mailIcon.PNG) [znzldh12@naver.com](mailto:znzldh12@naver.com)
 
+![phone](images/callIcon.PNG) 010-4795-1266
+
+![blog](images/blogIcon.PNG) https://mrdevelop.tistory.com/
 
 
 
@@ -65,7 +69,3 @@ gitHub에서 번역일을 찾고 있습니다.
 
 
 
-
-
-### Contact me
-[znzldh12@naver.com](mailto:znzldh12@naver.com)
