@@ -6,7 +6,7 @@ permalink: /about/
 
 이름 : 박 지 훈
 
-![mail](images/mailIcon.PNG) [znzldh12@naver.com](mailto:znzldh12@naver.com)
+![mail](images/mail_Icon.PNG) [znzldh12@naver.com](mailto:znzldh12@naver.com)
 
 ![phone](images/callIcon.PNG) 010-4795-1266
 
