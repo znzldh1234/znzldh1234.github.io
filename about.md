@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RESUME
-permalink: /about/
+permalink: /resume/
 ---
 이름 : 박 지 훈
 
@@ -27,7 +27,7 @@ permalink: /about/
 - Kotlin
 
 ----
-#### Contents
+### Contents
 ----
 - 오픈 소스를 활용하여 할 수 있는 일을 찾다보니  
 gitHub에서 번역일을 찾고 있습니다.  
@@ -46,7 +46,7 @@ gitHub에서 번역일을 찾고 있습니다.
 (창업 동아리: 날개없는 드론, 라이다드론)  
 (캡스톤디자인 : 라이다 슬램을 통한 물류 시스템에 관한 연구)  
 
-2021 ~ Present
+### 2021 ~ Present
 -----
 
 
