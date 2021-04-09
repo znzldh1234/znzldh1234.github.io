@@ -10,7 +10,7 @@ permalink: /about/
 
 ![phone](images/callIcon.PNG) 010-4795-1266
 
-![blog](images/blogIcon.PNG) https://mrdevelop.tistory.com/
+![blog](images/blogIcon.PNG) [https://mrdevelop.tistory.com/](https://mrdevelop.tistory.com/)
 
 
 
