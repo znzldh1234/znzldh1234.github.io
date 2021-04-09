@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RESUME
-permalink: /resume/
+permalink: /about/
 ---
 이름 : 박 지 훈
 
